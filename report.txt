@@ -1,0 +1,68 @@
+Name: Shenzi
+Age: 4
+Species: hyena
+
+Name: Banzai
+Age: 12
+Species: hyena
+
+Name: Ed
+Age: 4
+Species: hyena
+
+Name: Zig
+Age: 8
+Species: hyena
+
+Name: Scar
+Age: 6
+Species: lion
+
+Name: Mufasa
+Age: 12
+Species: lion
+
+Name: Simba
+Age: 22
+Species: lion
+
+Name: Kiara
+Age: 4
+Species: lion
+
+Name: Tony
+Age: 2
+Species: tiger
+
+Name: Tigger
+Age: 4
+Species: tiger
+
+Name: Amber
+Age: 18
+Species: tiger
+
+Name: Cosimia
+Age: 3
+Species: tiger
+
+Name: Yogi
+Age: 7
+Species: bear
+
+Name: Smokey
+Age: 25
+Species: bear
+
+Name: Paddington
+Age: 4
+Species: bear
+
+Name: Lippy
+Age: 4
+Species: bear
+
+Number of hyenas: 4
+Number of tiger: 4
+Number of bear: 4
+Number of lion: 4
